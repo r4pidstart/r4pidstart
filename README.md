@@ -20,20 +20,20 @@ Here are some ideas to get you started:
 
 ---
 
-##### 2021
+#### 2021
 
 - 삼성전자 하계 대학생 S/W 알고리즘 역량 강화 특강 - 우수 수료생 수료 (210719 - 210827)
   
-- 삼성 S/W 역량테스트 - Level B(Pro) 취득 (210821)
+- 삼성 S/W 역량테스트 - Level B (Pro) 취득 (210821)
   
-- 2021 한양대학교 프로그래밍 경시대회(HCPC) - Beginner DIv. 1위 / wa_sans (211128)
+- 2021 한양대학교 프로그래밍 경시대회 (HCPC) - Beginner Div. 1위 / wa_sans (211128)
   
 
 ### Projects
 
 ---
 
-##### 2021
+#### 2021
 
 - [HYU Portal helper](https://github.com/r4pidstart/hyu-portal-helper) - 한양대 포탈을 조금 더 편리하게
   

@@ -26,8 +26,11 @@ Here are some ideas to get you started:
   
 - 삼성 S/W 역량테스트 - Level B (Pro) 취득 (210821)
   
-- 2021 한양대학교 프로그래밍 경시대회 (HCPC) - Beginner Div. 1위 / wa_sans (211128)
-  
+- 2021 한양대학교 프로그래밍 경시대회 (HCPC) - Beginner Div. / 1위, wa_sans (211128)
+
+#### 2022
+
+- 42 Seoul (220131 - )
 
 ### Projects
 
@@ -43,8 +46,11 @@ Here are some ideas to get you started:
 
 --- 
 
-[![Solved.ac/boj](http://mazassumnida.wtf/api/v2/generate_badge?boj=r4pidstart)](https://solved.ac/r4pidstart)
+- [Algorithm templates](https://github.com/r4pidstart/algorithms)
 
+- [Solved problems](https://github.com/r4pidstart/problems)
+
+[![Solved.ac/boj](http://mazassumnida.wtf/api/v2/generate_badge?boj=r4pidstart)](https://solved.ac/r4pidstart)
 
 [![Topcoder](https://cp-logo.vercel.app/topcoder/rapit02?logo=true)](https://www.topcoder.com/members/rapit02/details/?track=DATA_SCIENCE&subTrack=SRM)
 

@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 #### 2022
 
-- 42 Seoul (220131 - )
+- 42 Seoul La piscine - pisciner(220131 - 220225)
 
 ### Projects
 

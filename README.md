@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 
 - 42 Seoul - Pisciner (220131 - 220225)
 
-- 42 Seoul - Cadet (220307 -
+- 42 Seoul - Cadet (220307 - 
 
 ### Projects
 
@@ -43,6 +43,10 @@ Here are some ideas to get you started:
 - [HYU Portal helper](https://github.com/r4pidstart/hyu-portal-helper) - 한양대 포탈을 조금 더 편리하게
   
 - [Airforce internet mailer](https://github.com/r4pidstart/airforce-internet-mailer) - 공군 친구에게 원하는 편지 폭탄을 선사하자
+
+#### 2022
+
+- [ft_libft](https://github.com/r4pidstart/ft_libft) - Your very first own library, 42cursus 첫 번째 과제
 
 ### PS
 

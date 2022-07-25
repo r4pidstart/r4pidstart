@@ -46,7 +46,13 @@ Here are some ideas to get you started:
 
 #### 2022
 
-- [ft_libft](https://github.com/r4pidstart/ft_libft) - Your very first own library, 42cursus 첫 번째 과제
+<details>
+    <summary>42 seoul</summary>
+    
+- [libft](https://github.com/r4pidstart/ft_libft) - Your very first own library
+
+- [get_next_line](https://github.com/r4pidstart/ft_get_next_line) - Reading a line from a fd is way too tedious
+</details>
 
 ### PS
 

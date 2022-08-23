@@ -47,13 +47,15 @@ Here are some ideas to get you started:
 #### 2022
 
 <details>
-    <summary>42 seoul</summary>
+  <summary>42 seoul</summary>
     
 - [libft](https://github.com/r4pidstart/ft_libft) - Your very first own library
 
 - [get_next_line](https://github.com/r4pidstart/ft_get_next_line) - Reading a line from a fd is way too tedious
 
 - [ft_printf](https://github.com/r4pidstart/ft_printf) - Because ft_putnbr() and ft_putstr() aren’t enough
+
+- [Born2beRoot](https://github.com/r4pidstart/ft_born2beroot) - This document is a System Administration related exercise.
 </details>
 
 ### PS

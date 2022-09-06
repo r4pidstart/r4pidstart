@@ -56,6 +56,8 @@ Here are some ideas to get you started:
 - [ft_printf](https://github.com/r4pidstart/ft_printf) - Because ft_putnbr() and ft_putstr() aren’t enough
 
 - [Born2beRoot](https://github.com/r4pidstart/ft_born2beroot) - This document is a System Administration related exercise.
+
+- [so_long](https://github.com/r4pidstart/ft_so_long) - And thanks for all the fish!
 </details>
 
 ### PS

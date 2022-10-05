@@ -46,25 +46,31 @@ Here are some ideas to get you started:
 
 #### 2022
 
-* 42 seoul
-  - [ft_mylibft](https://github.com/r4pidstart/ft_mylibft) - 실제로 내가 사용하는 라이브러리
+* 42 seoul  
 
-  1. [libft](https://github.com/r4pidstart/ft_libft) - Your very first own library // 내가 쓸 libc 함수들과 라이브러리 만들기
+  [ft_mylibft](https://github.com/r4pidstart/ft_mylibft) - 실제로 내가 사용하는 라이브러리
 
-  1. [get_next_line](https://github.com/r4pidstart/ft_get_next_line) - Reading a line from a fd is way too tedious // std::getline() 비슷한 것 만들기
+  - [libft](https://github.com/r4pidstart/ft_libft) - Your very first own library // 내가 쓸 libc 함수들과 라이브러리 만들기
 
-  1. [ft_printf](https://github.com/r4pidstart/ft_printf) - Because ft_putnbr() and ft_putstr() aren’t enough // 내가 쓸 printf 만들기
+  - [get_next_line](https://github.com/r4pidstart/ft_get_next_line) - Reading a line from a fd is way too tedious // std::getline() 비슷한 것 만들기
 
-  1. [Born2beRoot](https://github.com/r4pidstart/ft_born2beroot) - This document is a System Administration related exercise. // 리눅스 기초를 배우고, 간단한 웹 서버 열어보기
+  - [ft_printf](https://github.com/r4pidstart/ft_printf) - Because ft_putnbr() and ft_putstr() aren’t enough // 내가 쓸 printf 만들기
 
-  1. [so_long](https://github.com/r4pidstart/ft_so_long) - And thanks for all the fish! // 그래픽 라이브러리를 이용해 C로 간단한 2D게임 만들기
+  - [Born2beRoot](https://github.com/r4pidstart/ft_born2beroot) - This document is a System Administration related exercise. // 리눅스 기초를 배우고, 간단한 웹 서버 열어보기
 
-  1. [push_swap](https://github.com/r4pidstart/ft_push_swap) - Because Swap_push isn’t as natural // 스택(?)을 이용해 최적으로 수들을 정렬해보기
+  - [so_long](https://github.com/r4pidstart/ft_so_long) - And thanks for all the fish! // 그래픽 라이브러리를 이용해 C로 간단한 2D게임 만들기
 
-### PS
+  - [push_swap](https://github.com/r4pidstart/ft_push_swap) - Because Swap_push isn’t as natural // 스택(?)을 이용해 최적으로 수들을 정렬해보기
+
+### Problem Solving
 
 --- 
 
+- 출제한 문제
+  * [제 1회 곰곰컵](https://www.acmicpc.net/category/detail/3121) - 2022년 5월 14일 19:00
+    - [합주단 곰곰](https://www.acmicpc.net/problem/25197) - G3
+    - [도박사 곰곰](https://www.acmicpc.net/problem/25199) - P4
+  
 - [Algorithm templates](https://github.com/r4pidstart/algorithms)
 
 - [Solved problems](https://github.com/r4pidstart/problems)

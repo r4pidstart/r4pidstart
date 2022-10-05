@@ -68,7 +68,9 @@ Here are some ideas to get you started:
 
 - 출제한 문제
   * [제 1회 곰곰컵](https://www.acmicpc.net/category/detail/3121) - 2022년 5월 14일 19:00
+  
     - [합주단 곰곰](https://www.acmicpc.net/problem/25197) - G3
+    
     - [도박사 곰곰](https://www.acmicpc.net/problem/25199) - P4
   
 - [Algorithm templates](https://github.com/r4pidstart/algorithms)

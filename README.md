@@ -67,11 +67,15 @@ Here are some ideas to get you started:
 --- 
 
 - 출제한 문제
-  * [제 1회 곰곰컵](https://www.acmicpc.net/category/detail/3121) - 2022년 5월 14일 19:00
+  * [제 1회 곰곰컵](https://www.acmicpc.net/contest/view/792) - 2022년 5월 14일 19:00
   
-    - [합주단 곰곰](https://www.acmicpc.net/problem/25197) - G3
+    - [합주단 곰곰](https://www.acmicpc.net/problem/25197) - 수학, 확률론, 기댓값의 선형성
     
-    - [도박사 곰곰](https://www.acmicpc.net/problem/25199) - P4
+    - [도박사 곰곰](https://www.acmicpc.net/problem/25199) - 다이나믹 프로그래밍, 누적 합
+  
+  * [제 2회 곰곰컵](https://www.acmicpc.net/contest/view/895) - 2022년 11월 26일 19:00
+  
+    - [외로운 곰곰이는 친구가 있어요](https://www.acmicpc.net/problem/25197) - 수학, 정수론, 유클리드 호제법
   
 - [Algorithm templates](https://github.com/r4pidstart/algorithms)
 

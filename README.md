@@ -84,6 +84,7 @@ Here are some ideas to get you started:
 [![Solved.ac/boj](http://mazassumnida.wtf/api/v2/generate_badge?boj=r4pidstart)](https://solved.ac/r4pidstart)
 
 [![Topcoder](https://cp-logo.vercel.app/topcoder/rapit02?logo=true)](https://www.topcoder.com/members/rapit02/details/?track=DATA_SCIENCE&subTrack=SRM)
+[![AtCoder](https://badges.joonhyung.xyz/atcoder/rapit02.svg)](https://atcoder.jp/users/rapit02)
 
 <p align="center">
     </br>

@@ -80,7 +80,7 @@ You will see how to create threads and you will discover mutexes. // mutex 또�
 
   - [net_practice](https://github.com/r4pidstart/ft_net_practice) - This document is a System Administration related exercise. // 인터넷과 라우팅에 대한 전반적인 지식 학습
 
-  - [cpp module](https://github.com/r4pidstart/ft_cpp_module) - 
+  - [cpp module](https://github.com/r4pidstart/ft_cpp_module) - The goal of these modules is to introduce you to Object-Oriented Programming. // cpp로 oop 학습하기
 
   - [cub3d](https://github.com/r4pidstart/ft_cub3d) - It will enable you to explore ray-casting. Your goal will be to make a dynamic view inside a maze, in which you’ll have to find your way. // C로 ray-casting 기법을 이용한 3D 게임 만들기
 

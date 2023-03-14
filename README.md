@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 ![Github stats](https://github-readme-stats.vercel.app/api?username=r4pidstart&count_private=true&show_icons=true&theme=buefy&hide_title=true&line_height=25)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=r4pidstart&layout=compact&card_width=250)](https://github.com/anuraghazra/github-readme-stats)
 
-[![tjo's 42 stats](https://badge42.vercel.app/api/v2/clf87jiu7001108ms1enkh774/stats?cursusId=21&coalitionId=undefined)](https://github.com/JaeSeoKim/badge42)
+[![tjo's 42 stats](https://badge42.vercel.app/api/v2/clf87jiu7001108ms1enkh774/stats?cursusId=21&coalitionId=piscine)](https://github.com/JaeSeoKim/badge42)
 
 ### History
 

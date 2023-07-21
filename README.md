@@ -38,6 +38,12 @@ Here are some ideas to get you started:
 
 - 2022 한양대학교 프로그래밍 경시대회 (HCPC) - Advenced Div. / 3위, owo (221204)
 
+#### 2023
+
+- PCCP(코딩전문역량인증) C++ / Lv5 | 1000점 (230429)
+
+- 우리 코딩 페스티벌 / 4등(장려상) (230527)
+
 ### Projects
 
 ---
